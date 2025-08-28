@@ -13,6 +13,13 @@
 Este repositorio forma parte del Sprint 0 del Proyecto ABP del equipo RoomsyDevs, para la asignatura Sistema de Gestión de Contenidos . El objetivo es preparar el entorno de desarrollo, organizar la documentación técnica y definir la estructura inicial del sitio web profesional utilizando WordPress.
 
 
+## Descripción breve del sitio
+
+RoomsyDevs es un sitio web profesional desarrollado en WordPress como portfolio grupal, donde se presentan los integrantes del equipo, sus roles, proyectos destacados y metodologías aplicadas.
+
+En futuras iteraciones, el sitio se ampliará hacia un modelo de servicios turísticos, permitiendo que anfitriones publiquen sus hospedajes mediante una suscripción mensual. Los turistas podrán explorar las publicaciones y contactar directamente a los anfitriones a través de la información provista, facilitando reservas sin intermediarios.
+
+Esta evolución busca integrar funcionalidades de autogestión, trazabilidad de publicaciones y comunicación directa entre partes, manteniendo la estética clara y la estructura funcional que caracterizan al equipo.
 
 
 ## Organización del Equipo
