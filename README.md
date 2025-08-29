@@ -46,3 +46,8 @@ Este proyecto se desarrolla en entorno local utilizando **XAMPP** (Apache, MySQL
    - Usuario administrador con contraseña segura (documentada internamente).
 
 > Las evidencias individuales de instalación fueron subidas por cada integrante a la sección **Wiki** del repositorio.
+
+## Estructura prevista del sitio
+
+- Menú principal: Inicio, Sobre Nosotros, Proyectos, Contacto  
+- Secciones: Portfolio, Blog, Integrantes, Formulario de contacto
