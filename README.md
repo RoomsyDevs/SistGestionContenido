@@ -29,3 +29,20 @@ En esta primera instancia de acercamiento y afianzamiento del proyecto, no se de
 Las tareas iniciales, como la redacción del `README.md` y la documentación en la Wiki, fueron abordadas de manera colaborativa, priorizando la participación equitativa y el consenso grupal.
 
 > La asignación formal de roles se definirá en los próximos sprints y será documentada en la Wiki del repositorio.
+
+## Entorno Técnico y Configuración Inicial
+
+Este proyecto se desarrolla en entorno local utilizando **XAMPP** (Apache, MySQL, PHP) y **WordPress** como CMS. La base de datos se gestiona con **phpMyAdmin**, y el código se documenta y versiona en **GitHub**.
+
+### Pasos de instalación
+
+1. Instalar XAMPP y activar Apache/MySQL.  
+2. Crear la base de datos `bdroomsydevs` en `http://localhost/phpmyadmin`.  
+3. Descargar WordPress desde el sitio oficial y ubicarlo en `C:\xampp\htdocs\roomsydevs`.  
+4. Acceder a `http://localhost/roomsydevs` y completar el asistente de instalación.  
+5. Configurar:
+   - Título del sitio: RoomsyDevs  
+   - Subtítulo: Portfolio profesional  
+   - Usuario administrador con contraseña segura (documentada internamente).
+
+> Las evidencias individuales de instalación fueron subidas por cada integrante a la sección **Wiki** del repositorio.
