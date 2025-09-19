@@ -48,7 +48,7 @@ Pasos de instalación:
 Estructura prevista del sitio:
 - Menú principal: Inicio, Presentacion, Integrantes, Tecnologías y Contacto.
 
-### Sprint 1 – Migración a entorno de producción
+### Sprint 1 – Migración a entorno de producción - `https://roomsydevs.site/`
 - Contratación de hosting en Hostinger con dominio .site
 - Instalación limpia de WordPress en servidor
 - Instalación del tema Astra y del plugin Elementor para diseño visual
