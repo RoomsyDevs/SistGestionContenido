@@ -46,8 +46,7 @@ Pasos de instalación:
 > Las evidencias individuales de instalación fueron subidas por cada integrante a la sección **Wiki** del repositorio.
 
 Estructura prevista del sitio:
-- Menú principal: Inicio, Sobre Nosotros, Proyectos, Contacto  
-- Secciones: Portfolio, Blog, Integrantes, Formulario de contacto
+- Menú principal: Inicio, Presentacion, Integrantes, Tecnologías y Contacto.
 
 ### Sprint 1 – Migración a entorno de producción
 - Contratación de hosting en Hostinger con dominio .site
@@ -58,7 +57,7 @@ Estructura prevista del sitio:
    - Duplicate Page (replicación de estructura de CV)
 - Creación de usuarios individuales con rol de administrador
 - Validación de acceso, edición y publicación por cada integrante
-- Definición de páginas principales: Inicio, Presentación, Integrantes, Tecnologías, Experiencia laboral, Contacto
+- Definición de páginas principales: Inicio, Presentación, Integrantes, Tecnologías, Experiencia laboral y Contacto.
 - Integración de páginas individuales en el submenú “Integrantes”
 - Creación de páginas de CV personal desde cada usuario
 - Subida de evidencias individuales de instalación y edición
