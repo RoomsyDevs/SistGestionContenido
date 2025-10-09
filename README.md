@@ -64,3 +64,27 @@ Estructura prevista del sitio:
 - Respeto por la estética grupal y branding de RoomsyDevs
 
 Próximas iteraciones: Se prevé la incorporación de funcionalidades adicionales como formularios personalizados de contactos y mejoras en accesibilidad.
+
+### Sprint 2 – Funcionalidades agregadas
+
+- Página de Tecnologías: se añadieron las tecnologías con descripción breve de cada una, y se incorporó el botón “Saber más” en cada bloque para enlazar a su página específica.
+
+- Menú Tecnologías (Navegación): se creó una lista desplegable con cada tecnología como subelemento; al hacer clic, lleva a su página correspondiente. Cada integrante añadió las páginas que le tocaron como subelemento.
+
+- Páginas explicativas de cada tecnología: se creó una página individual por cada tecnología listada en el menú.
+
+- Página de Contacto: creación de formulario con Contact Form 7, almacenamiento de entradas con Flamingo y asociación a correo electrónico, verificación de recepción de entradas. Mapa de google maps de la ciudad de Cordoba.
+
+- Blog de Experiencia Laboral: redacción de entradas de blog, creación de categoría “Experiencia”, y creación/ asignación de etiquetas por tecnología para optimizar navegación y organización interna.
+
+- Tienda WooCommerce: creación de tienda con 3 productos/servicios, precios e imágenes; enlaces desde la sección “Servicios que ofrecemos en RoomsyDevs” del Home; creación de cupón de descuento y aviso destacado en la tienda. Servicios:
+
+Desarrollo de Software
+
+Desarrollo UX
+
+Arquitectura de Sistemas
+
+Branding y Wireframes
+
+- Testeo general del sitio: verificación de idioma, redacción, enlaces internos y externos, errores visuales o técnicos, coherencia general del contenido y diseño responsive.
